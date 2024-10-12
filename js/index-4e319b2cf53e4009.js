@@ -492,7 +492,7 @@
         { logo: "/images/tg.png", url: "https://t.me/pacmemfun" },
         {
           logo: "/images/mint-rich.png",
-          url: "https://pump.fun/nBBT8FNcYxQUmu96T15iv1BwnQh12HuhUAYqzmFpump",
+          url: "https://raydium.io/swap/?inputMint=sol&outputMint=PACM31pmDcwcfZbUssfEjfyKgasSMeAWnsytD77ArYd",
         },
       ];
       var m = () => {
