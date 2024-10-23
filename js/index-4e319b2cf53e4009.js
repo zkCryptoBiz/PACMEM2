@@ -489,10 +489,10 @@
         p = n.n(d);
       let h = [
         { logo: "/images/x.png", url: "https://x.com/pacmemfun" },
-        { logo: "/images/tg.png", url: "https://t.me/pacmemfun" },
+        { logo: "/images/tg.png", url: "https://t.me/pacmemfunCTO" },
         {
           logo: "/images/mint-rich.png",
-          url: "https://raydium.io/swap/?inputMint=sol&outputMint=PACucxqLwfcxuR8HimcffNim45sSe23dwWt9YccYCbD",
+          url: "https://pump.fun/Vp9cZkWHXd3uX6x661cuZb7xWe561TacWtgYVY8pump",
         },
       ];
       var m = () => {
