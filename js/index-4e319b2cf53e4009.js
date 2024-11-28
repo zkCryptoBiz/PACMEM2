@@ -489,7 +489,7 @@
         p = n.n(d);
       let h = [
         { logo: "/images/x.png", url: "https://x.com/pacmemecoin" },
-        { logo: "/images/tg.png", url: "https://t.me/PacCoinChannel" },
+        { logo: "/images/tg.png", url: "https://t.me/PacMemeChannel" },
         {
           logo: "/images/mint-rich.png",
           url: "https://pump.fun/coin/KPph5BUCU4v9wprJjVxC4Q2vwiFh6LCdfcDtzk4pump",
