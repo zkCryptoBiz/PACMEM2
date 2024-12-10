@@ -488,8 +488,8 @@
         d = n(1664),
         p = n.n(d);
       let h = [
-        { logo: "/images/x.png", url: "https://x.com/pacmoooooon" },
-        { logo: "/images/tg.png", url: "https://t.me/PACM00N" },
+        { logo: "/images/x.png", url: "https://x.com/paccoinfun" },
+        { logo: "/images/tg.png", url: "https://t.me/PacFun" },
         {
           logo: "/images/mint-rich.png",
           url: "https://pump.fun/coin/aoA1jr1S5KFRZnDW1fghJ5kEbDDi7sbmHbU5C7Mpump",
