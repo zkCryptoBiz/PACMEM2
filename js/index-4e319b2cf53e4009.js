@@ -488,11 +488,11 @@
         d = n(1664),
         p = n.n(d);
       let h = [
-        { logo: "/images/x.png", url: "https://x.com/paccoinfun" },
-        { logo: "/images/tg.png", url: "https://t.me/PacFun" },
+        { logo: "/images/x.png", url: "https://x.com/paccoinsol" },
+        { logo: "/images/tg.png", url: "https://t.me/PacSolCoin" },
         {
           logo: "/images/mint-rich.png",
-          url: "https://pump.fun/coin/Du7Et3oH56wUPDSipafXCpbzViHwZETwToqG3Efnpump",
+          url: "https://pump.fun/coin/aaaaaaaaaa",
         },
       ];
       var m = () => {
