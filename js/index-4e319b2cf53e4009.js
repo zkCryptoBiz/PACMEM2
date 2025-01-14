@@ -492,7 +492,7 @@
         { logo: "/images/tg.png", url: "https://t.me/PacSolCoin" },
         {
           logo: "/images/mint-rich.png",
-          url: "https://pump.fun/coin/23Z4JWKyvnTne1XuicXjZiSzjvmdu9jxNd2xVUYFpump",
+          url: "https://pump.fun/coin/ggggg",
         },
       ];
       var m = () => {
