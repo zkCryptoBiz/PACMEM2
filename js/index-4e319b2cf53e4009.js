@@ -551,7 +551,7 @@
                       alt: "",
                     }),
                     (0, a.jsx)("img", {
-                      src: "/pac.png",
+                      src: "/pact.png",
                       style: { width: "373px", height: "54px" },
                       // className: " mb-4",
                       alt: "",
